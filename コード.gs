@@ -155,8 +155,3 @@ function setArray(array){
     rng.setValues(value);
   }
 }
-
-
-
-//パラメータに格納される値は？
-//key = row_col, val = val
