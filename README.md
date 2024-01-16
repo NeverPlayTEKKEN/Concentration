@@ -7,6 +7,6 @@
 
 3.開きたいセルを選択し、onSelectを割り当てたボタンを押下すると選択したカードが開きます。
 
-4.c9がPlayerAの点数、g9がPlayerBの点数です。レイアウトを自由にカスタマイズしてください。
+4.C9がPlayerAの点数、G9がPlayerBの点数です。レイアウトを自由にカスタマイズしてください。
 
 ![image](https://github.com/NeverPlayTEKKEN/Concentration/assets/151503950/66b7e70d-0792-4800-b5be-06421ed53c65)
